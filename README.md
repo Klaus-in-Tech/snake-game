@@ -16,7 +16,8 @@ pip install pygame
 
 To start the game, run the `snake-game.py` file using Python. You can use the arrow keys on your keyboard to control the snake's movement: up, down, left, or right. The snake will move continuously, and your goal is to eat the food that appears randomly on the screen.
 
-If the snake hits the wall or its own body, the game will end.
+If the snake hits the wall or its own body, the game will end.<br><br>
+![snake game](https://user-images.githubusercontent.com/31986394/237063128-9f204ca9-d4e2-4628-a06b-18ac9c92ef8e.gif)
 
 ## Features
 
