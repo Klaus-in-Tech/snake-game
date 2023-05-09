@@ -36,8 +36,6 @@ This game was developed using Python 3.10.9 and Pygame 2.1.0.
 
 This game was inspired by the classic Snake game and was built as a personal project by ME.
 
-The sound effects used in this game were obtained from [SoundBible](https://soundbible.com/). 
-
 ## Acknowledgements
 
 Tutorial used to build the game: [Youtube Video](https://www.youtube.com/watch?v=SUtHKHwUKT4&t=1073s)
